@@ -1,7 +1,7 @@
 i ceated page 2 in chapter 2
 
 this is very new for me
-
 git is cool
+
 git is easy
 very soon we will start automation
